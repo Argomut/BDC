@@ -1,0 +1,127 @@
+Committee with Duty List less than minimum hours(14):
+1. Committee 1 (Duty Master), 4 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S11, 
+Day 4 - S5, S6, S7, S8, S9, 
+
+2. Committee 2 (Duty Master), 5 * 30-min duty slots remaining 
+Available time: 
+Day 4 - S6, S7, S8, S9, S10, S11, S12, S13, 
+
+3. Committee 3 (Duty Master), 3 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S0, S1, S2, S3, S4, S5, 
+
+4. Committee 5 (Duty Master), 6 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S1, S2, S3, S4, 
+Day 4 - S8, S9, S10, S11, 
+
+5. Committee 6 (Duty Master), 7 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S0, S1, S2, S3, S4, 
+Day 2 - S12, 
+Day 3 - S1, S2, S3, 
+
+6. Committee 7 (Duty Master), 10 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S2, S3, S4, 
+Day 2 - S7, S8, S9, S10, S11, S12, 
+Day 3 - S1, S2, S3, 
+
+7. Committee 8 (Duty Master), 1 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S12, 
+Day 4 - S12, S13, 
+
+8. Committee 9 (Duty Master), 1 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S12, 
+Day 4 - S12, S13, 
+
+9. Committee 12 (Secretary ), 8 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S5, S6, 
+Day 4 - S7, S8, S9, S10, S11, S12, 
+
+10. Committee 14 (Secretary), 10 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S0, S1, S11, S12, S13, 
+Day 4 - S5, S6, S7, S8, S9, S10, S11, S12, S13, 
+
+11. Committee 15 (Treasurer ), 1 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S0, S1, S11, S12, S13, 
+
+12. Committee 16 (Publication & Media ), 10 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S0, S1, S2, S3, S4, 
+Day 2 - S7, S8, S9, 
+Day 3 - S1, S2, S3, 
+
+13. Committee 17 (Publication & Media ), 1 * 30-min duty slots remaining 
+Available time: 
+Day 2 - S7, 
+
+14. Committee 18 (Publication & Media ), 10 * 30-min duty slots remaining 
+Available time: 
+Day 2 - S8, S9, S10, S11, 
+
+15. Committee 19 (Campaign), 5 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S12, S13, 
+Day 4 - S8, S9, S10, S11, S12, 
+
+16. Committee 20 (Campaign), 10 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S2, S3, 
+Day 4 - S5, S6, S7, S8, S9, S10, S11, 
+
+17. Committee 21 (Business ), 2 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S0, S1, S2, S3, 
+Day 3 - S12, S13, 
+Day 4 - S9, S10, S11, S12, 
+
+18. Committee 22 (Business ), 7 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S0, S1, S3, S4, 
+Day 2 - S1, S3, S4, 
+
+19. Committee 25 (Registration & Form Filling), 2 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S1, S2, S3, S4, 
+
+20. Committee 26 (Registration & Form Filling), 4 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S1, S2, S3, S4, 
+
+21. Committee 27 (Registration & Form Filling), 6 * 30-min duty slots remaining 
+Available time: 
+Day 2 - S10, S11, 
+Day 4 - S10, S11, S12, S13, 
+
+22. Committee 28 (Registration & Form Filling), 8 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S1, S2, S3, S4, 
+Day 4 - S10, S11, S12, S13, 
+
+23. Committee 31  (Certificate, Souvenirs & Refreshment), 7 * 30-min duty slots remaining 
+Available time: 
+Day 2 - S5, S6, S13, 
+
+24. Committee 32 (Certificate, Souvenirs & Refreshment), 12 * 30-min duty slots remaining 
+Available time: 
+Day 1 - S3, 
+
+25. Committee 33 (Certificate, Souvenirs & Refreshment), 6 * 30-min duty slots remaining 
+Available time: 
+Day 2 - S6, S7, 
+
+26. Committee 35 (Certificate, Souvenirs & Refreshment), 2 * 30-min duty slots remaining 
+Available time: 
+
+27. Committee 36 (Certificate, Souvenirs & Refreshment), 2 * 30-min duty slots remaining 
+Available time: 
+Day 3 - S1, S2, 
+
